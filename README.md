@@ -43,10 +43,10 @@ This project is a responsive e-commerce product listing page built with Next.js,
 ----------
 
 # 🧑‍💻 Tech What i learned
-✔ Practical use of Next.js and TypeScript
-✔ Component-based structure for scalability
-✔ State management with useState for filters and search
-✔ Handling filtering logic for multiple criteria
-✔ Applying responsive design principles with CSS Modules
-✔ Translating Figma design into functional code
+1. Practical use of Next.js and TypeScript
+2. Component-based structure for scalability
+3. State management with useState for filters and search
+4. Handling filtering logic for multiple criteria
+5. Applying responsive design principles with CSS Modules
+6. Translating Figma design into functional code
 
