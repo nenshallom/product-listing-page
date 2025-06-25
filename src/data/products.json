@@ -1,0 +1,97 @@
+[
+    {
+      "id": 1,
+      "name": "Cappuccino",
+      "price": 8,
+      "image": "/products/cappuccino.png",
+      "category": "Coffee",
+      "dietary": ["Eco Friendly", "Nut Free"],
+      "store": "Minden Bakery",
+      "storeLogo": "/products/store-mini-logo.png"
+    },
+    {
+      "id": 2,
+      "name": "Matcha Latte",
+      "price": 10,
+      "image": "/products/matcha-latte.png",
+      "category": "Baked Goods",
+      "dietary": ["Eco Friendly", "Gluten Free", "Nut Free"],
+      "store": "Minden Bakery",
+      "storeLogo": "/products/store-mini-logo.png"
+    },
+    {
+      "id": 3,
+      "name": "Golden Latte",
+      "price": 8,
+      "image": "/products/golden-latte.png",
+      "category": "Coffee",
+      "dietary": ["Gluten Free", "Nut Free"],
+      "store": "Minden Bakery",
+      "storeLogo": "/products/store-mini-logo.png"
+    },
+    {
+      "id": 4,
+      "name": "Hot Chocolate",
+      "price": 12,
+      "image": "/products/hot-chocolate.png",
+      "category": "Baked Goods",
+      "dietary": ["Nut Free"],
+      "store": "Minden Bakery",
+      "storeLogo": "/products/store-mini-logo.png"
+    },
+    {
+      "id": 5,
+      "name": "Iced Latte",
+      "price": 12,
+      "image": "/products/iced-latte.png",
+      "category": "Coffee",
+      "dietary": ["Eco Friendly", "Gluten Free", "Nut Free"],
+      "store": "Minden Bakery",
+      "storeLogo": "/products/store-mini-logo.png"
+    },
+    {
+      "id": 6,
+      "name": "Plain Croissant",
+      "price": 4,
+      "unit": "Box (8 pieces)",
+      "image": "/products/plain-croissant.png",
+      "category": "Baked Goods",
+      "dietary": ["Eco Friendly", "Nut Free"],
+      "store": "Minden Bakery",
+      "storeLogo": "/products/store-mini-logo.png"
+    },
+    {
+      "id": 7,
+      "name": "French Macaron",
+      "price": 6,
+      "unit": "Box (12 pieces)",
+      "image": "/products/french-macaron.png",
+      "category": "Coffee",
+      "dietary": ["Eco Friendly"],
+      "store": "Minden Bakery",
+      "storeLogo": "/products/store-mini-logo.png"
+    },
+    {
+      "id": 8,
+      "name": "Original Blend Coffee",
+      "price": 12,
+      "unit": "Pack",
+      "image": "/products/original-blend-coffee.png",
+      "category": "Coffee",
+      "dietary": ["Eco Friendly", "Gluten Free", "Nut Free"],
+      "store": "Minden Bakery",
+      "storeLogo": "/products/store-mini-logo.png"
+    },
+    {
+      "id": 9,
+      "name": "Energy Cookie",
+      "price": 5,
+      "unit": "Box (6 pieces)",
+      "image": "/products/energy-cookie.png",
+      "category": "Baked Goods",
+      "dietary": ["Gluten Free"],
+      "store": "Minden Bakery",
+      "storeLogo": "/products/store-mini-logo.png"
+    }
+]
+  

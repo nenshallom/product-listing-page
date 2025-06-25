@@ -1,0 +1,111 @@
+/*  */
+.storeHeader {
+    width: 100%;
+    margin-bottom: 60px;
+}
+  
+.bannerContainer {
+    width: 100%;
+    overflow: hidden;
+}
+  
+.bannerImage {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+  
+.storeInfo {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 20px 50px;
+    background: rgba(255, 255, 255, 0.9);
+}
+
+/*  store informatio */
+.storeInfoContainer {
+    /* border: 1px solid green; */
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 70%;
+    gap: 1rem;
+}
+
+.storeLogo {
+    min-width: 20%;
+}
+
+.storeLogo img {
+    border-radius: 50%;
+    width: 100%;
+    height: auto;
+    border: 2px solid #ccc;
+}
+
+.storeDetails {
+    text-align: left;
+    flex: 1;
+}
+.storeDetails h1 {
+    font-size: clamp(20px, 4vw, 48px);
+}
+  
+.storeDetails p {
+    /* margin: 5px 0; */
+    font-size: clamp(16px, 2.5vw, 24px);
+    font-weight: 400
+}
+  
+.getDirection a {
+    text-decoration: none;
+    color: #0DA8CA;
+    margin-left: 10px;
+    cursor: pointer;
+}
+  
+.storeOwner {
+    text-align: center;
+    font-size: clamp(18px, 2.5vw, 24px);
+    align-self: center;
+}
+
+.storeOwnerImage {
+    max-width: 60%;
+}
+
+.storeOwner img {
+    border-radius: 50%;
+    width: 100%;
+    height: auto;
+    border: 2px solid #ccc;
+}
+
+@media (max-width: 1120px) {
+    .storeInfo {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .storeInfoContainer {
+        width: 100%;
+        flex-direction: row;
+        align-items: flex-start;
+    }
+    .storeLogo {
+        width: 100px;
+    }
+    .storeDetails {
+        width: 100%;
+    }
+    .storeOwner {
+        align-self: center;
+    }
+}
+@media (max-width: 800px) {
+    .storeInfoContainer {
+        flex-direction: column;
+    }
+}
