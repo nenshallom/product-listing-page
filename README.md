@@ -1,9 +1,10 @@
-
-☕ Coffee Store - E-commerce Product Listing Page
+# ☕ Personal Coffee Store - E-commerce Product Listing Page 
 This project is a responsive e-commerce product listing page built with Next.js, TypeScript, and CSS Modules, following a provided Figma UI design. It showcases products, allows filtering, searching, and provides a polished user experience.
 
+----------
 
-✨ Features
+
+# ✨ Features
 ✅ Responsive layout across desktop, tablet, and mobile
 ✅ Product listing with image, name, price, and store details
 ✅ Category filter (Baked Goods, Coffee)
@@ -13,22 +14,35 @@ This project is a responsive e-commerce product listing page built with Next.js,
 ✅ Follows provided UI design structure
 ✅ Clean component separation and reusable code
 
+----------
 
-🛠️ Tech Stack
+
+# 🛠️ Tech Stack
 1. Next.js (React framework)
 2. TypeScript
 3. CSS Modules for component-level styling
 4. Next.js Image Optimization
 
-📦 How to Run the Project
+----------
+
+# 📦 How to Run the Project
 1. Clone the repository 
-    git clone <repository-url>  
+    ```bash
+    git clone (https://github.com/nenshallom/product-listing-page.git)  
 
 2. Run npm install or yarn
 3. Run the development server: `npm run dev`
 4. Open http://localhost:3000
 
-🧑‍💻 What I Learned
+----------
+
+## 🌐 Live Preview
+
+[View Live Demo](https://mentorledtask2.netlify.app//)
+
+----------
+
+# 🧑‍💻 Tech What i learned
 ✔ Practical use of Next.js and TypeScript
 ✔ Component-based structure for scalability
 ✔ State management with useState for filters and search
